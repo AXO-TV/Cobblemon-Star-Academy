@@ -1,8 +1,8 @@
 {
-    "name": "Ultimate-Shinobi",
-    "preductname": "Ultimate Shinobi Launcher",
-    "version": "2.1.8",
-    "description": "Launcher Mincraft pour le serveur Ultimate Shinobi",
+    "name": "Cobblemon Star Academy",
+    "preductname": "Cobblemon Star Academy Launcher",
+    "version": "2.0.0",
+    "description": "Launcher Minecraft pour le serveur Cobblemon Star Academy",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, AXO, Inc.",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AXO-TV/Ultimate-Shinobi.git"
+        "url": "git+https://github.com/AXO-TV/Cobblemon-Star-Academy"
     }
 }
