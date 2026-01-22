@@ -1,7 +1,7 @@
 {
-    "name": "Cobblemon Star Academy",
+    "name": "cobblemon-star-academy",
     "preductname": "Cobblemon Star Academy Launcher",
-    "version": "3.0.3",
+    "version": "3.0.4",
     "description": "Launcher Minecraft pour le serveur Cobblemon Star Academy",
     "main": "src/app.js",
     "author": {
